@@ -1,0 +1,26 @@
+.row .col-sm-8 {
+    color: rgb(25, 194, 123);
+    font-family: Montserrat;
+}
+
+.row .col-sm-8 p {
+    color: black;
+}
+
+.row {
+    padding-top: 25px;
+}
+
+.row .col-sm-4 {
+    color: rgb(25, 194, 123);
+    font-family: Montserrat;
+}
+
+.row .col-sm-4 p {
+    color: black;
+}
+
+img {
+    width: 250px;
+    margin-left: 20px;
+}
